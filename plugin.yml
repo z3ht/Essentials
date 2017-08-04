@@ -1,0 +1,27 @@
+main: me.zinno.essentials.Main
+version: 1.0.0
+name: Essentials
+author: Zinno
+
+commands:
+  wild:
+    description: Teleport to a random location in the world
+    usage: /wild
+  spawn:
+    description: Teleport to the spawn area
+    usage: /spawn
+  setspawn:
+    description: Set a spawn location
+    usage: /setspawn
+  admins:
+    description: Get a list of the admins
+    usage: /admins
+  warp:
+    description: Warp to a specified location
+    usage: /warp
+  setwarp:
+    description: Create a warp location
+    usage: /setwarp
+  delwarp:
+    description: Delete a warp location
+    usage: /delwarp
